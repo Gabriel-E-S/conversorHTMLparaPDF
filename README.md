@@ -55,7 +55,7 @@ git clone https://github.com/Gabriel-E-S/conversorHTMLparaPDF.git
 
 5. Abra o terminal na pasta do projeto e execute o script:
     ```bash
-    python conversor.py
+    python3 conversor.py
     ```
 
 O script fará a leitura de todos os arquivos. Ao finalizar, uma nova pasta chamada certificados_pdf será criada automaticamente contendo todos os seus certificados formatados e prontos em formato .pdf.
